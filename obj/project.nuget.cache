@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cl4oxAw6/StrUvwbHoc02Zbz3UqBe90fDEnw2p85XP0GbQ+L49Qbhr+a7wtek8tXLbtXu0XMJSMb8++D2Xr82A==",
+  "success": true,
+  "projectFilePath": "D:\\Mycomputer\\MyPc\\ScamFuckery\\ScAmming Scammers\\Scam-Code-New\\Source Code\\Venomcsproj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
