@@ -22,7 +22,7 @@ By engaging with the content, you acknowledge that you are solely responsible fo
 This disclaimer aims to protect both parties involved, emphasizing the importance of individual accountability and understanding the potential risks associated with the use of the provided content.
 ---//---
 
-![Example Screenshot](https://imgur.com/a/99nFNP7)
+![Example Screenshot](https://github.com/ProxyPog/VenomRat-7.0.5-CRACK-FULL-SRC/blob/main/VRAT.png)
 
 ## Features
 ✅Remote Code Execution (Memory/Disk/RunPE/spoolsv)
